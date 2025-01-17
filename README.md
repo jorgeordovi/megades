@@ -1,0 +1,2 @@
+# megades
+Megades - regularizador demedida
